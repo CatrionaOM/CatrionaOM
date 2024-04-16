@@ -9,7 +9,8 @@
 
 ---
 
-I'm currently rotating with the [Reality Bending Lab](https://github.com/RealityBending)
+Previously rotating with the [Reality Bending Lab](https://github.com/RealityBending)
+Currently rotating with the Sussex Centre for Consciousness Science
 
 ---
 
