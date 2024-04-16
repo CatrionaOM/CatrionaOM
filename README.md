@@ -9,8 +9,10 @@
 
 ---
 
-Previously rotating with the [Reality Bending Lab](https://github.com/RealityBending)\
-Currently rotating with the Sussex Centre for Consciousness Science
+First year rotations:
+- Luc Berthouze, https://berthouz.github.io
+- Dominique Makowski, [Reality Bending Lab](https://github.com/RealityBending)
+- Adam Barrett, [Sussex Centre for Consciousness Science](https://www.sussex.ac.uk/research/centres/sussex-centre-for-consciousness-science/)
 
 ---
 
