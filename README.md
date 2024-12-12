@@ -4,16 +4,16 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/catriona-osborn-moar-9078361b7/)
 [![DataCamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F)](https://www.datacamp.com/portfolio/catom)
 
-:brain: Sussex Neuroscience PhD Student | First year\
+:brain: Sussex Neuroscience PhD Researcher
 :mortar_board: BSc Hons Neuroscience, Queen Mary University of London | MRes Neuroscience, University of Sussex\
-:woman_technologist: Python | R | Proficiency: _work in progress_ :wrench:
+:woman_technologist: Python | R | :wrench:
 
 ---
 
-First year rotations:
-- Luc Berthouze, https://berthouz.github.io
-- Dominique Makowski, [Reality Bending Lab](https://github.com/RealityBending)
-- Adam Barrett, [Sussex Centre for Consciousness Science](https://www.sussex.ac.uk/research/centres/sussex-centre-for-consciousness-science/)
+Supervisors: 
+- [Adam Barrett](https://profiles.sussex.ac.uk/p156234-adam-barrett/), [Sussex Centre for Consciousness Science](https://www.sussex.ac.uk/research/centres/sussex-centre-for-consciousness-science/)
+- [Anil Seth](https://profiles.sussex.ac.uk/p22981-anil-seth), [Sussex Centre for Consciousness Science](https://www.sussex.ac.uk/research/centres/sussex-centre-for-consciousness-science/)
+- [Dominique Makowski](https://profiles.sussex.ac.uk/p592424-dominique-makowski), [Reality Bending Lab](https://github.com/RealityBending)
 
 ---
 
