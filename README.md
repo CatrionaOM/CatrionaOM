@@ -21,28 +21,17 @@ Supervisors:
 ---
 
 Interests: 
--	Ongoing activity, thought & experience
--	(En)active Inference 
--	Philosophy of Science
--	Complex systems & criticality
+-	Experience
+-	4E cognition
+-	Complex systems
+-	Ongoing neural dynamics
+-	Multiscale cognition
+-	Canalization & cognitive flexibility
 -	Altered states of consciousness
 -	Mental health, critical psychiatry 
--	Evolution of cognition
+-	Philosophy of Science
 
 ---
 
-A few influences (maybe more than a few :sweat_smile:):
--	Andy Clark
--	Douglas Hofstadter
--	Gabor Maté
--	György Buzsáki
--	Joanna Moncrieff
--	Kalina Christoff
--	Karl Friston
--	Michael Karchoff
--	Randy Gallistel
--	Stanislas Dehaene
--	William Uttal
 
----
 
