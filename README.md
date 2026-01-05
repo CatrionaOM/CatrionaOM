@@ -1,5 +1,6 @@
-# Hey there! 👋
-## I'm Cat. Here's a little about me... 
+# Hey there! I'm Cat 👋
+## I'm a PhD researcher at the Sussex Centre for Consciousness Science
+[![Website](https://img.shields.io/badge/GitHub%20Website-181717?style=for-the-badge&logo=github&logoColor=white)](https://catrionaom.github.io/)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Catriona-Osborn-Moar)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/catriona-osborn-moar-9078361b7/)
 [![DataCamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F)](https://www.datacamp.com/portfolio/catom)
@@ -7,9 +8,9 @@
 
 
 
-:brain: Sussex Neuroscience PhD Researcher
+:brain: Sussex Neuroscience PhD Researcher\
 :mortar_board: BSc Hons Neuroscience, Queen Mary University of London | MRes Neuroscience, University of Sussex\
-:woman_technologist: Python | R | :wrench:
+:woman_technologist: Python | R | MATLAB | :wrench:
 
 ---
 
