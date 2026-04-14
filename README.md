@@ -21,16 +21,15 @@ Supervisors:
 
 ---
 
-Interests: 
--	Experience
--	4E cognition
--	Complex systems
--	Ongoing neural dynamics
--	Multiscale cognition
--	Canalization & cognitive flexibility
--	Altered states of consciousness
--	Mental health, critical psychiatry 
--	Philosophy of Science
+Research Interests:
+- Process-relational philosophy of mind
+- Enactive \& 4E approaches to psychiatry
+- Altered states of consciousness
+- Predictive coding \& active inference
+- Organisational closure \& self-organisation
+- Complex systems, criticality \& emergence
+- Critical psychiatry \& epistemic injustice
+- Phenomenology \& neurophenomenology
 
 ---
 
